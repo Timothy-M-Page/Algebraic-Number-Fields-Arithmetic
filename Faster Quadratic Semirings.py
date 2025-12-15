@@ -163,10 +163,11 @@ Integer : 6 + 0√11.     Sigma : 12 + 0√11.    Quotient : 2 + 0√11.
 Integer : 14 + 4√11.    Sigma : 28 + 8√11.    Quotient : 2 + 0√11.   ***
 Integer : 28 + 0√11.    Sigma : 56 + 0√11.    Quotient : 2 + 0√11.
 
-Nice Numbers up to 100 in N(11)
+Nice Numbers up to 100 in N(13)
 Integer : 1 + 0√13.     Sigma : 1 + 0√13.      Quotient : 1 + 0√13.
 Integer : 6 + 0√13.     Sigma : 12 + 0√13.     Quotient : 2 + 0√13.
 Integer : 28 + 0√13.    Sigma : 56 + 0√13.     Quotient : 2 + 0√13.
 Integer : 52 + 16√13.   Sigma : 156 + 48√13.   Quotient : 3 + 0√13.   ***
 
 """
+
