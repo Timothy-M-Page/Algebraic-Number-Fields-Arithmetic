@@ -1,16 +1,3 @@
-"""
-Define a semi-ring (R, + ,x) where R is all combinations of a + b * root(k)
-for a non square k, with a and b natural numbers. That is, the semi-ring
-associated to the quadratic field Q(root(k)).
-
-Such semi-rings allow a well-defined sum of divisors function, any element
-has a finite number of divisors using the definition : a|b iff there exists c
-such that b = ac, for elements a,b and c in R.
-
-We wish to investigate perfect numbers in such semi-rings, defined as usual
-with sigma(n) = sum_(d|n) d.
-"""
-
 import math
 
 
@@ -101,5 +88,6 @@ def divisors(x: tuple[int, int], k: int):
                 divs.append((a, b, c, d))
 
     return divs
+
 
 
